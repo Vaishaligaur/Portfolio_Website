@@ -4,8 +4,6 @@
 🌐 **Live Demo:** [vaishali-gaur-bfddbb.netlify.app](https://vaishali-gaur-bfddbb.netlify.app/)  
 📂 **GitHub Repo:** [github.com/Vaishaligaur/Portfolio-Website](https://github.com/Vaishaligaur/Portfolio-Website)  
 
-![Portfolio Screenshot](https://vaishali-gaur-bfddbb.netlify.app/Assets/Images/veeportofolio.JPG) *(Replace with an actual screenshot if needed)*  
-
 ---
 
 ### **✨ Key Features**  
