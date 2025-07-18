@@ -2,7 +2,7 @@
 **A sleek, responsive portfolio showcasing my skills, projects, and professional journey.**  
 
 🌐 **Live Demo:** [vaishali-gaur-bfddbb.netlify.app](https://vaishali-gaur-bfddbb.netlify.app/)  
-📂 **GitHub Repo:** [github.com/Vaishaligaur/Portfolio-Website](https://github.com/Vaishaligaur/Portfolio-Website)  
+📂 **GitHub Repo:** [github.com/Vaishaligaur/Portfolio-Website](https://github.com/Vaishaligaur/Portfolio_Website).
 
 ---
 
@@ -41,7 +41,7 @@ Portfolio-Website/
 ### **⚡ Quick Setup**  
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/Vaishaligaur/Portfolio-Website.git
+   git clone (https://github.com/Vaishaligaur/Portfolio_Website)
    ```
 2. **Run locally**  
    - Open `index.html` in any browser (no server needed).  
